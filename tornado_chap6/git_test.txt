@@ -1,2 +1,2 @@
 add + commit
-
+test git use git status command
