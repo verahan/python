@@ -1,4 +1,10 @@
 master
 
+<<<<<<< HEAD
 
 master branch test
+=======
+i am working on branch
+
+branch dev
+>>>>>>> dev
